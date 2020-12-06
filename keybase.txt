@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cheezwhiz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ds-david-shen.github.io
+  * I am cheezwhiz (https://keybase.io/cheezwhiz) on keybase.
+  * I have a public key ASD9asaTxQ4aE-MG9rilLbX1aFkvUGMHjfrTu8jgjEXougo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd6ac693c50e1a13e306f6b8a52db5f568592f5063078dfad3bbc8e08c45e8ba0a",
+      "host": "keybase.io",
+      "kid": "0120fd6ac693c50e1a13e306f6b8a52db5f568592f5063078dfad3bbc8e08c45e8ba0a",
+      "uid": "a4701c53fd5523f9645c5f14142b7b19",
+      "username": "cheezwhiz"
+    },
+    "merkle_root": {
+      "ctime": 1607241697,
+      "hash": "f688e4339faf463330e4b6fd6d0e0c900ecde08e54994e3959e34f5d1b1dfcded487c3e1afe725b14a4f09097cf0115129009426b500756a2d6bad5240406318",
+      "hash_meta": "e51238fa99ee43716531a60ec35395a81916ea69b60e1f072acc392557667b08",
+      "seqno": 18327163
+    },
+    "service": {
+      "entropy": "q2GtmraeOW9s80m9IN9LQgvb",
+      "hostname": "ds-david-shen.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1607241722,
+  "expire_in": 504576000,
+  "prev": "cc4336c1e320f63dae7455f4fc4b8dab043dd6e12c455c752643a91820f42e13",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/WrGk8UOGhPjBva4pS219WhZL1BjB43607vI4IxF6LoKp3BheWxvYWTESpcCB8QgzEM2weMg9j2udFX0/EuNqwQ91uEsRVx1JkOpGCD0LhPEICZGqEcL3jatWwHTwR2bo3XURiVPOT7HbtLI/CUq3/r1AgHCo3NpZ8RAj5av7iEBhvU7RSWcaRLSzBbnvO8Lpl4QZszVGsfdUd/AbwMOhJ0piO4BTQcqNg6aHi2qc1T+wycenj+c6oOsBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICKj3A7lh0N0NSZQv2yGnde40d1hK2Kdm9EJiQOEMq5ro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cheezwhiz
+
+==================================================================
