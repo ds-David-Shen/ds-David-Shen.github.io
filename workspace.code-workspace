@@ -7,5 +7,7 @@
 			"path": "..\\machine learning practice"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ds-David-Shen.github.io"
+	}
 }
