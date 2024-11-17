@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Teto Kitty",
+    "technologies": "Python, PyTorch, Pygame",
+    "date": "Aug 2024 \u2013 Present",
+    "details": [
+      "Built an AI-driven Tetris bot using alpha-beta pruning and bitboard analysis to make efficient game decisions.",
+      "Trained neural networks in PyTorch to refine bot heuristics, improving move prediction and responsiveness, tested within a custom Tetris game.",
+      "Applied minimax algorithms and reward functions to optimize the bot\u2019s gameplay in high-speed, complex scenarios."
+    ]
+  },
+  {
+    "title": "Tournament Scenes",
+    "technologies": "Python, Matplotlib, Battlefy API, PIL",
+    "date": "Sep 2024 \u2013 Nov 2024",
+    "details": [
+      "Developed animated scenes for the Apple Orchard Cup, a premier TETR.IO tournament, including dynamic brackets, versus screens, and commentary overlays.",
+      "Crowdfunded over $1,500 for the prize pool, establishing it as one of the largest in TETR.IO history.",
+      "Utilized real-time data updates and custom animations in Matplotlib and PIL to deliver a polished and engaging viewer experience."
+    ]
+  },
+  {
+    "title": "Practice Bot",
+    "technologies": "Python, discord.py, MariaDB",
+    "date": "September 2020 \u2013 July 2021",
+    "details": [
+      "Created a popular Discord bot for programming platforms (DMOJ, Codeforces) with features for problem tracking, ratings, and contest updates.",
+      "Adopted in over 800 servers as a centralized tool for competitive programming practice."
+    ]
+  }
+]
